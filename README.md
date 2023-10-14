@@ -1,5 +1,4 @@
-Task Management App
-
+Task Management Console App
 Features:
 
 Add a task with a title and description.
